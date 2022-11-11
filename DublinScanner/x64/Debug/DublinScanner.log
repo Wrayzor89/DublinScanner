@@ -1,0 +1,5 @@
+﻿  MainScanner.c
+  Scanner.c
+C:\Users\Think\Desktop\Compilers 8152\A12\Dublin\DublinScanner\Scanner.c(475,18): warning C4047: '==': 'dub_char *' differs in levels of indirection from 'int'
+  Generating Code...
+  DublinScanner.vcxproj -> C:\Users\Think\Desktop\Compilers 8152\A12\Dublin\DublinScanner\x64\Debug\DublinScanner.exe
